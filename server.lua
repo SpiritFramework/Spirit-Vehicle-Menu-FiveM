@@ -6,8 +6,8 @@ local RESOURCE_NAME = GetCurrentResourceName()
 local CURRENT_VERSION = GetResourceMetadata(RESOURCE_NAME, 'version', 0) or '1.0.0'
 
 -- Your GitHub raw version URL (update with your actual repo)
-local GITHUB_VERSION_URL = 'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/version.txt'
-local GITHUB_DOWNLOAD_URL = 'https://github.com/YOUR_USERNAME/YOUR_REPO/releases'
+local GITHUB_VERSION_URL = 'https://raw.githubusercontent.com/SpiritFramework/Spirit-Vehicle-Menu-FiveM/refs/heads/main/version.txt'
+local GITHUB_DOWNLOAD_URL = 'https://github.com/SpiritFramework/Spirit-Vehicle-Menu-FiveM'
 
 -- Check interval (24 hours in ms)
 local CHECK_INTERVAL = 24 * 60 * 60 * 1000
