@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vehicle Spawner</title>
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <div class="menu-container" id="menuContainer">
+            <div class="menu-header">
+                <div class="server-brand">
+                    <div class="logo-placeholder" id="serverLogo">🚗</div>
+                    <div class="server-info">
+                        <h1 id="serverName">SERVER NAME</h1>
+                        <span class="breadcrumb" id="breadcrumb">Main Menu</span>
+                    </div>
+                </div>
+                <button class="close-btn" onclick="closeMenu()">✕</button>
+            </div>
+
+            <div class="search-container" id="searchContainer" style="display: none;">
+                <input type="text" id="searchInput" placeholder="Search vehicles..." oninput="filterVehicles()">
+                <span class="search-icon"></span>
+            </div>
+
+            <div class="menu-content" id="menuContent"></div>
+
+            <div class="menu-footer">
+                <span id="itemCount">0 items</span>
+                <span class="hint">Press F5 to toggle</span>
+            </div>
+        </div>
+    </div>
+
+    <div id="notificationContainer"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
