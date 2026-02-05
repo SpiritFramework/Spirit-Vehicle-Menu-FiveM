@@ -41,34 +41,51 @@
 
 ---
 
-## Edit the Vehicles table in 
--- **vehicle_spawner.lua**
+## ⚙️ Configuration
+
+### 🚗 Vehicles
+
+Edit the `Vehicles` table in `vehicle_spawner.lua`
+
+```lua
 Vehicles = {
     yourcategory = {
         label = "Your Category",
         icon = "🚗",
         color = "#ff0000",
         vehicles = {
-            { name = "modelname", label = "Display Name", desc = "Description" },
+            {
+                name = "modelname",
+                label = "Display Name",
+                desc = "Description"
+            },
         }
     }
 }
+```
 
-## Basic Settings **vehicle_spawner.lua**
+---
+
+### ⚙️ Basic Settings
+
+Edit the `Config` table in `vehicle_spawner.lua`
+
+```lua
 Config = {
     ServerName = "Your Server Name",
     ServerLogo = "https://your-image-url.com/logo.png",
-    
+
     -- Menu position (screen percentage)
     Position = { x = 95, y = 20 },
-    
+
     -- Colors & styling
     Style = {
         accentColor = "#ff6b6b",
         backgroundColor = "rgba(15, 15, 15, 0.95)",
-        -- ... see full config in file
+        -- See full config in file
     }
 }
+```
 
 ---
 
