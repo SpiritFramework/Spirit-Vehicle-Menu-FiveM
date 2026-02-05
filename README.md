@@ -41,7 +41,8 @@
 
 ---
 
-## Edit the Vehicles table in **vehicle_spawner.lua**
+## Edit the Vehicles table in 
+-- **vehicle_spawner.lua**
 Vehicles = {
     yourcategory = {
         label = "Your Category",
