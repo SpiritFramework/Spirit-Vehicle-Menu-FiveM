@@ -1,6 +1,5 @@
-&lt;div align="center"&gt;
 
-![Vehicle Spawner Banner](YOUR_IMAGE_URL_HERE.png)
+![Vehicle Spawner Banner](https://iili.io/fDZA7vR.png)
 
 # 🚗 Vehicle Spawner
 
@@ -9,10 +8,6 @@
 [![FiveM](https://img.shields.io/badge/FiveM-Ready-brightgreen)]()
 
 **Modern, customizable vehicle spawner with NUI interface and automatic update checking.**
-
-[Features](#-features) • [Installation](#-installation) • [Dependencies](#-dependencies) • [Configuration](#-configuration)
-
-&lt;/div&gt;
 
 ---
 
