@@ -19,14 +19,14 @@
 
 ## 📋 Features
 
-- 🎨 **Modern NUI Interface** — Clean, animated design with categories
-- 🏎️ **Organized Categories** — Super, Muscle, Luxury, Off-Road, Motorcycles, Emergency, and more **(Can be changed to your liking)**
-- 🔍 **Search Function** — Quickly find vehicles by name
-- ⚡ **Auto Update Checker** — GitHub version checking built-in
-- 🔔 **Notification Integration** — Works with any notification system
-- 🎨 **Fully Customizable** — Colors, position, branding, server logo
-- ⌨️ **Keybind Support** — F5 toggle (configurable)
-- 🛠️ **Utility Commands** — `/dv` delete vehicle, `/fix` repair vehicle
+- 🎨 **Modern NUI Interface** - Clean, animated design with categories
+- 🏎️ **Organized Categories** - Super, Muscle, Luxury, Off-Road, Motorcycles, Emergency, and more **(Can be changed to your liking)**
+- 🔍 **Search Function** - Quickly find vehicles by name
+- ⚡ **Auto Update Checker** - GitHub version checking built-in
+- 🔔 **Notification Integration** - Works with any notification system (Designed for Spirit-Notifications)
+- 🎨 **Fully Customizable** - Colors, position, branding, server logo
+- ⌨️ **Keybind Support** - F5 toggle (configurable)
+- 🛠️ **Utility Commands** - `/dv` delete vehicle, `/fix` repair vehicle
 
 ---
 
