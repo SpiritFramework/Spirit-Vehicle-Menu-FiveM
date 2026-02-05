@@ -11,9 +11,9 @@
 
 ---
 
-| Dependency                 | Required   | Description                           |
-| -------------------------- | ---------- | ------------------------------------- |
-| **Spirit-Notifications** | ✅ Required | For spawn/delete/repair notifications |
+| Dependency                 | Required   | Description                           | Download |
+| -------------------------- | ---------- | ------------------------------------- | ---------------------------------------------------------------------- |
+| **Spirit-Notifications** | ✅ Required | For spawn/delete/repair notifications | [GitHub](https://github.com/SpiritFramework/Spirit-Notifications-FiveM) |
 
 ---
 
